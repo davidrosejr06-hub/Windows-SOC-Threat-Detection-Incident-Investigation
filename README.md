@@ -42,6 +42,10 @@ Windows Event Viewer was used to monitor the Security log for authentication-rel
 
 <img width="374" height="246" alt="Screenshot 2026-09-30 205714" src="https://github.com/user-attachments/assets/fd97c359-1f17-4af6-ace3-1cbf8e1f5ba3" />
 
+# Create an Account for Authentication Testing
+
+<img width="373" height="244" alt="Screenshot 2026-09-30 205915" src="https://github.com/user-attachments/assets/e59bc8f9-4d80-4d97-8226-f1a2a647e5db" />
+
 
 # 3. Controlled Authentication Testing
 Kali linux was used to generate controlled network authentication attempts against the Windows endpoint.
