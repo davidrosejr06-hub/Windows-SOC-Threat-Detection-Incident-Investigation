@@ -15,7 +15,6 @@ investigated the resulting Windows Security Event Logs using Event Viewer.
 - Incident timeline development to correlate multiple security events.
 - MITRE ATT&CK mapping for simulated brute-force and password-guessing activity.
 - SOC incident documentation and security investigation reporting.
-- Virtualized cybersecurity lab configuration using VirtualBox.
 
 # Tools Used
  - Windows 10 — monitored endpoint and security event logging.
