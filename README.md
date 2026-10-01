@@ -57,6 +57,16 @@ Multiple failed authentication events were identified against the same account a
 
 <img width="290" height="80" alt="Screenshot 2026-09-27 203441" src="https://github.com/user-attachments/assets/55135840-1dcb-43e8-848f-570cdc0b4b4c" />
 
+<img width="278" height="147" alt="Screenshot 2026-09-27 203840 - Copy" src="https://github.com/user-attachments/assets/04740903-feaf-4372-af17-747b3c1f7244" />
+
+<img width="181" height="87" alt="Screenshot 2026-09-27 203827 - Copy" src="https://github.com/user-attachments/assets/703fbfe2-bd22-432f-bd93-ebc0cfd02666" />
+
+<img width="299" height="190" alt="Screenshot 2026-09-27 203735 - Copy - Copy" src="https://github.com/user-attachments/assets/d0f92fff-efd5-4cb8-a47f-4cda10f8fff0" />
+
+<img width="265" height="70" alt="Screenshot 2026-09-27 202854 - Copy - Copy" src="https://github.com/user-attachments/assets/848e1ae7-e931-4a62-bcd3-86a327e71ff2" />
+
+<img width="263" height="59" alt="Screenshot 2026-09-27 202834 - Copy - Copy" src="https://github.com/user-attachments/assets/499299e1-ab85-4fa4-967b-65420e520fd3" />
+
 This shows the full timeline of events for when the attacker attempted to gain access to the Windows endpoint. 
 
 # Successful Authentication for Event ID 4624
