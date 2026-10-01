@@ -40,7 +40,8 @@ Windows Event Viewer was used to monitor the Security log for authentication-rel
 
 # Event ID 4625 for failed logon: 
 
-<img width="427" height="269" alt="Screenshot 2026-09-27 195150" src="https://github.com/user-attachments/assets/cd5b6c09-a1cd-4de7-8b94-cf05faeccbfa" />
+<img width="374" height="246" alt="Screenshot 2026-09-30 205714" src="https://github.com/user-attachments/assets/fd97c359-1f17-4af6-ace3-1cbf8e1f5ba3" />
+
 
 # 3. Controlled Authentication Testing
 Kali linux was used to generate controlled network authentication attempts against the Windows endpoint.
