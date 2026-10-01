@@ -63,6 +63,10 @@ Multiple failed authentication events were identified against the same account a
 
 <img width="265" height="70" alt="Screenshot 2026-09-27 202854 - Copy - Copy" src="https://github.com/user-attachments/assets/848e1ae7-e931-4a62-bcd3-86a327e71ff2" />
 
+
+<img width="340" height="83" alt="Screenshot 2026-09-30 205448" src="https://github.com/user-attachments/assets/7de090e9-6e67-4c65-a213-750872075fb8" />
+
+
 <img width="263" height="59" alt="Screenshot 2026-09-27 202834 - Copy - Copy" src="https://github.com/user-attachments/assets/499299e1-ab85-4fa4-967b-65420e520fd3" />
 
 This shows the full timeline of events for when the attacker attempted to gain access to the Windows endpoint. 
