@@ -30,6 +30,7 @@ investigated the resulting Windows Security Event Logs using Event Viewer.
 
 # 1. Verified network Connectivity 
 Confirmed that there was communication between Kali linux and Windows endpoint:
+
 <img width="341" height="170" alt="Screenshot 2026-09-27 200713" src="https://github.com/user-attachments/assets/331e9f8e-d5e1-4388-8416-dbb8356099a8" />
 
 # 2. Windows Authentication Monitoring
